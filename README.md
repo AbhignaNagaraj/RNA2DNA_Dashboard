@@ -1,5 +1,5 @@
 # 🧬 RNA2DNA Dashboard
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rna2dnadashboard-n9vbtjhfy9sdzq6yceogfa.streamlit.app/)
+![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rna2dnadashboard-n9vbtjhfy9sdzq6yceogfa.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-FF4B4B.svg)
 ![BioPandas](https://img.shields.io/badge/BioPandas-Latest-green.svg)
