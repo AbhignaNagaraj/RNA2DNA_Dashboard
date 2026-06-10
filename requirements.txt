@@ -3,4 +3,3 @@ biopandas
 pandas
 numpy
 py3Dmol
-stmol

@@ -2,7 +2,7 @@ import streamlit as st
 import tempfile
 import os
 import py3Dmol
-from stmol import showmol
+import streamlit.components.v1 as components
 
 from RNA2DNA import convert_rna_to_dna
 
@@ -38,11 +38,11 @@ def visualize_pdb(pdb_file, label, style_color):
 
     st.subheader(label)
 
-    showmol(
-        view,
-        height=500,
-        width=500
-    )
+    components.html(
+    view._make_html(),
+    height=500,
+    width=500
+)
 
 
 # ----------------------------
