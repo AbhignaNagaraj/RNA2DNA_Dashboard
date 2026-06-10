@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+pre-DNA1.pdb
+pre-DNA2.pdb
+DNA.pdb
+.streamlit/
