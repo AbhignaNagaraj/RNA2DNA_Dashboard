@@ -1,12 +1,12 @@
 # 🧬 RNA2DNA Dashboard
-```markdown
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-FF4B4B.svg)
 ![BioPandas](https://img.shields.io/badge/BioPandas-Latest-green.svg)
 ![py3Dmol](https://img.shields.io/badge/py3Dmol-Interactive%203D-orange.svg)
 ![Structural Bioinformatics](https://img.shields.io/badge/Domain-Structural%20Bioinformatics-purple.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-```
+
 
 
 An interactive **Streamlit-based structural bioinformatics application** for converting **single-stranded RNA (ssRNA)** three-dimensional structures into **single-stranded DNA (ssDNA)** structures with integrated **3D visualization**.
